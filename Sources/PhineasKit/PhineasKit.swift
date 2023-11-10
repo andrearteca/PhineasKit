@@ -6,6 +6,7 @@ public struct VerdadeView: View{
     
     public var body: some View{
         Text("Oi")
+        Text("Muito legal")
     }
     
 }
